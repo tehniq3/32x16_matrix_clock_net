@@ -1,6 +1,6 @@
 /*
  * (c)20016-18 Pawel A. Hernik
- * small schemages by Nicu FLORICA (niq_ro) for EEST = UTC/GMT +3 hours
+ * small changes by Nicu FLORICA (niq_ro) for EEST = UTC/GMT +3 hours
  * 
  * 
   ESP-01 pinout from top:
